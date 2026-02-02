@@ -1,2 +1,3 @@
-# Ola Mundo
-Meu primeiro repositorio
+# Olá Mundo!
+Meu primeiro repositório!!!!
+    Repositório criado durante o Curso de Git/GitHub
